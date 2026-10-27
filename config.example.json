@@ -1,0 +1,29 @@
+{
+  "timezone": "Asia/Jakarta",
+  "author": {
+    "github_login": "HaposanSimas",
+    "names": ["Haposan", "Haposan Parulian Siahaan", "HaposanSimas"],
+    "emails": ["ISI_EMAIL_GIT_KAMU@smmf.co.id"]
+  },
+  "github": {
+    "owner": "PT-Sinarmas-Multifinance",
+    "repos": [
+      "coins-api",
+      "consumer-management-api",
+      "smmf-airflow",
+      "marketing-service",
+      "order-service"
+    ]
+  },
+  "gitlab": {
+    "base_url": "https://git.smmf.co.id",
+    "insecure_tls": false,
+    "projects": [
+      "root/mufins-api-backend",
+      "root/mufins-central-backend",
+      "root/smmf-mufins-service",
+      "root/mufins-core-web",
+      "root/mufins-bo-web"
+    ]
+  }
+}
